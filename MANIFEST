@@ -1,0 +1,7 @@
+Changes
+Enca.xs
+Makefile.PL
+MANIFEST
+ppport.h
+README
+lib/Encode/Enca.pm

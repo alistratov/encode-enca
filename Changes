@@ -1,0 +1,6 @@
+Revision history for Perl extension Encode::Enca.
+
+0.01  Mon Mar 18 18:48:24 2013
+	- original version; created by h2xs 1.23 with options
+		-b 5.8.0 -n Encode::Enca enca.h
+
