@@ -1,5 +1,6 @@
 libenca-perl
 ============
+[![Build Status](https://travis-ci.org/alistratov/libenca-perl.png?branch=master)](https://travis-ci.org/alistratov/libenca-perl)
 
 Enca Library Perl interface.
 
