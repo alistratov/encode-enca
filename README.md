@@ -1,4 +1,4 @@
-libenca-perl
+Encode::Enca (libencode-enca-perl)
 ============
 [![Build Status](https://travis-ci.org/alistratov/libenca-perl.png?branch=master)](https://travis-ci.org/alistratov/libenca-perl)
 
